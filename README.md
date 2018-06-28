@@ -15,6 +15,27 @@ Take the quiz below to make sure you're familiar with the testing and access mod
 [X] Gives confidence to developers that their changes work
 [X] Serves as useful documentation
 
+?: All of the below are types of tests. Select the 2 that are the main two classications of tests:
+
+[ ] Acceptance
+[X] Unit
+[ ] UI
+[X] Integration
+[ ] End to End (E2E)
+
+?: Which of these test types is the quickest:
+
+( ) Acceptance
+(X) Unit
+( ) UI
+( ) Integration
+( ) End to End (E2E)
+
+?: Which of these test types provides covers more parts of an application?
+
+( ) Unit
+(X) Integration
+
 ?: Where does rspec test suite configuration live?
 
 ( ) In the test files themselves
