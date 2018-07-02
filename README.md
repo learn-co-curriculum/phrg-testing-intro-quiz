@@ -8,12 +8,13 @@ Take the quiz below to make sure you're familiar with the testing and access mod
 
 # Quiz - Testing Part 1
 
-?: What are the benefits of robust test coverage? (select all that apply)
+?: What are benefits of robust test coverage? (select all that apply)
 
 [X] Saves time as application grows
 [X] Identifies breaking changes earlier on in developer cycle
 [X] Gives confidence to developers that their changes work
 [X] Serves as useful documentation
+[ ] Slows down development cycle
 
 ?: All of the below are types of tests. Select the 2 that are the main two classications of tests:
 
