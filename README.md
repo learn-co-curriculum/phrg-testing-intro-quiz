@@ -16,7 +16,7 @@ Take the quiz below to make sure you're familiar with the testing and access mod
 [X] Serves as useful documentation
 [ ] Slows down development cycle
 
-?: All of the below are types of tests. Select the 2 that are the main two classications of tests:
+?: All of the below are types of tests. Select the 2 that are the main two classifications of tests:
 
 [ ] Acceptance
 [X] Unit
