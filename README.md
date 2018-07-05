@@ -116,7 +116,7 @@ end
 
 (X) `let` lazily runs the code in its block while `let!` always runs the code in its block.
 ( ) `let!` lazily runs the code in its block while `let` always runs the code in its block.
-( ) There is no difference between these methods, it is just a sytlistic choice.
+( ) There is no difference between these methods, it is just a stylistic choice.
 
 ?: How could the `Kitty` spec be improved? (select all that apply)
 
