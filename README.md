@@ -14,7 +14,6 @@ Take the quiz below to make sure you're familiar with the testing and access mod
 [X] Identifies breaking changes earlier on in developer cycle
 [X] Gives confidence to developers that their changes work
 [X] Serves as useful documentation
-[ ] Slows down development cycle
 
 ?: All of the below are types of tests. Select the main two classifications of tests:
 
@@ -24,7 +23,7 @@ Take the quiz below to make sure you're familiar with the testing and access mod
 [X] Integration
 [ ] End to End (E2E)
 
-?: Which of these test types is the quickest:
+?: Which of these test types is executes the quickest:
 
 ( ) Acceptance
 (X) Unit
@@ -32,36 +31,15 @@ Take the quiz below to make sure you're familiar with the testing and access mod
 ( ) Integration
 ( ) End to End (E2E)
 
-?: Which of these test types provides covers more parts of an application?
+?: Which of these test types provides coverage over more parts of an application?
 
 ( ) Unit
 (X) Integration
 
-?: All of the below are types of tests. Select the 2 that are the main two classications of tests:
-
-[ ] Acceptance
-[X] Unit
-[ ] UI
-[X] Integration
-[ ] End to End (E2E)
-
-?: Which of these test types is the quickest:
-
-( ) Acceptance
-(X) Unit
-( ) UI
-( ) Integration
-( ) End to End (E2E)
-
-?: Which of these test types provides covers more parts of an application?
-
-( ) Unit
-(X) Integration
-
-?: Where does rspec test suite configuration live?
+?: Where does the rspec test suite configuration live?
 
 ( ) In the test files themselves
-(X) In the spec_helper.rb
+(X) In the spec_helper.rb file
 ( ) In the application files
 
 ?: What rspec methods take a descriptive string as their first argument? (select all that apply)
@@ -103,7 +81,7 @@ end
 ( ) 3
 ( ) 9
 
-?: In the last example, as the code stands now, how many times will `Kitty#give_milk` be called?
+?: In the last example, how many times will `Kitty#give_milk` be called?
 
 ( ) 0
 ( ) 1
@@ -111,14 +89,14 @@ end
 ( ) 6
 ( ) 7
 
-?: In the last examplee, as the code stands now, which instance of `kitty_cat` receives milk?
+?: In the last example, which instance of `kitty_cat` receives milk?
 
 ( ) Neither
 (X) Franklin
 ( ) Jojo
 ( ) Both
 
-?: In the last example, as the code stands now, how many of each Kitty is created?
+?: In the last example, how many of each Kitty is created?
 
 ( ) 0 kitties are created
 ( ) 3 Franklins and 3 Jojos
@@ -142,8 +120,8 @@ end
 ?: How could the `Kitty` spec be improved? (select all that apply)
 
 [ ] Remove tests
-[X] Explicitly move logic inside `before` directly into examples that require it
-[X] Explicitly move `Kitty` creation directly in examples that require it instead of using `let`s
+[X] Move logic from `before` block directly into the examples that need it
+[X] Move `Kitty` creation into examples that need it instead of using `let`s
 [ ] Create more kitties
 
 ?: What level of code access should be the most thoroughly tested?
