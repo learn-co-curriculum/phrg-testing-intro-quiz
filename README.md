@@ -1,8 +1,4 @@
-# Testing Part 1
-
-## Overview
-
-Take the quiz below to make sure you're familiar with the testing and access modifier lessons covered in this section.
+# Testing quiz
 
 ???
 
