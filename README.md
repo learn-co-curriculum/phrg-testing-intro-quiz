@@ -20,7 +20,7 @@
 [X] Integration
 [ ] End to End (E2E)
 
-?: Which of these test types is executes the quickest:
+?: Which of these types of tests execute the quickest:
 
 ( ) Acceptance
 (X) Unit
